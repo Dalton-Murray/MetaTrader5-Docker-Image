@@ -27,7 +27,7 @@ If you just need to run Metatrader for running your MQL5 programs without any Py
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/gmag11/MetaTrader5-Docker-Image
+git clone https://github.com/Dalton-Murray/MetaTrader5-Docker-Image
 cd MetaTrader5-Docker-Image
 ```
 
